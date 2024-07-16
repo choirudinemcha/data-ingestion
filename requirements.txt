@@ -1,0 +1,9 @@
+apache-airflow-providers-google
+pandas
+elasticsearch
+sqlalchemy
+psycopg2-binary
+fastavro
+avro
+pymysql
+requests
